@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+### IDEA ###
+.idea
+*.iml
+
+### other ###
+out
+resources
